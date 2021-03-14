@@ -1,0 +1,37 @@
+Action:
+Add Setting:
+-----------
+
+Url :
+----------
+
+http://localhost:8081/api/settings/add
+
+
+***********************
+
+Payload:
+---------
+{
+	"store_title": "Shograte",
+    "store_name": "Shograte multi vendor",
+    "address": "Cbe",
+    "email": "admin@admin.com",
+    "phone": "9876543210",
+    "country": "India",
+    "state": "Tn"
+}
+
+
+============================================================
+
+
+
+Action :
+List setting
+
+URL:
+
+http://localhost:8081/api/settings/list
+
+

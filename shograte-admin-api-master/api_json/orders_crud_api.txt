@@ -1,0 +1,32 @@
+Action:
+Add Order
+-----------
+
+Url :
+----------
+
+http://localhost:8081/api/orders/add
+
+
+***********************
+
+Payload:
+---------
+{
+     "customer_id": "601980656395e931a06527eb",
+    "order_total": "560"
+}
+
+
+============================================================
+
+
+
+Action :
+List setting
+
+URL:
+
+http://localhost:8081/api/orders/list
+
+
